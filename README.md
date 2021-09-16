@@ -1,3 +1,3 @@
 # PhotoTapps
 Collection-based ios app.
-![alt text](screenshots/scren01.png "Cкриншот #1")
+![alt text](screenshots/screen01.png "Cкриншот #1")
