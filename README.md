@@ -1,2 +1,2 @@
 # PhotoTapps
-collection-based ios app
+Collection-based ios app.
