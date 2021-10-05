@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>336838157892-r8de6sei41m61da1u1oe7pmbh78u9vtn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.336838157892-r8de6sei41m61da1u1oe7pmbh78u9vtn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC6TQlJEZeF86NqNsEsAVtz3XFjFKl3zxU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>336838157892</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>choney.PhotoTapps</string>
+	<key>PROJECT_ID</key>
+	<string>phototapps</string>
+	<key>STORAGE_BUCKET</key>
+	<string>phototapps.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:336838157892:ios:cd4023bde6f8e9bbfe7e11</string>
+</dict>
+</plist>
