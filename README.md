@@ -1,5 +1,6 @@
 # PhotoTapps
-🎉 Collection-based ios app.
+
+🎉 Collection-based ios app with Firebase.
 
 ![alt text](screenshots/screen01.png "Cкриншот #1")
 
